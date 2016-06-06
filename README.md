@@ -15,7 +15,7 @@
 
 > [webpack](http://webpack.github.io/docs/)
 
-> [sui-mobile](http://docs.reactjs-china.com/react/docs/getting-started.zh-CN.html)
+> [React](http://docs.reactjs-china.com/react/docs/getting-started.zh-CN.html)
 
 ---
 ### 截图
